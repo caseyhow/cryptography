@@ -1,0 +1,4 @@
+Sample plain text file with
+Multiple lines.
+The last line contains a secret message:
+Here is the secret message.
